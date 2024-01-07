@@ -84,7 +84,7 @@
     >Продолжить</button>
 </form>
 
-<p>У меня уже есть <a href="/login.html">аккаунт</a></p>
+<p>У меня уже есть <a href="/login.php">аккаунт</a></p>
 
 <script src="assets/app.js"></script>
 </body>
